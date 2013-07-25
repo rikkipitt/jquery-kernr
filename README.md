@@ -21,7 +21,7 @@ Use the data attribute "data-kernr" to add your spacing rules:
 ```
 
 ##How does it work?
-The plugin looks at the data-kernr attribute which is an object. It takes each pair of case-sensitive character matches and applies the spacing assigned to it.
+The plugin looks at the data-kernr attribute which is an object. It takes each pair of case-sensitive character matches and applies the spacing assigned to it between the characters.
 
 Spacings can be any positive or negative valid CSS length unit such as px, em, rem, etc.
 
