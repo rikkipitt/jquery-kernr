@@ -17,7 +17,9 @@ $("h1").kernr();
 Use the data attribute "data-kernr" to add your spacing rules:
 
 ```html
-<h1 data-kernr='{"He":"-1px", "Wo":"-3px"}'>Hello World!</h1>
+<h1 data-kernr='{"He":"-1px", "Wo":"-3px"}'>
+  Hello World!
+</h1>
 ```
 
 ##How does it work?
